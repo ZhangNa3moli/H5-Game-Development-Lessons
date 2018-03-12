@@ -1,2 +1,2 @@
-# H5-Lessons
+# H5-Game-Development-Lessons
 exercises
